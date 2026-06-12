@@ -17,7 +17,7 @@ This repository contains a collection of Oracle DBA scripts and automation tools
 - Automation Tasks
 
 ## Repository Structure
-
+```
 oracle-dba-scripts/
 ├── sql/
 ├── shell/
@@ -26,5 +26,5 @@ oracle-dba-scripts/
 ├── dataguard/
 ├── monitoring/
 └── docs/
-
+```
 The goal of this repository is to maintain a practical collection of scripts and solutions commonly used by Oracle Database Administrators in production environments.
